@@ -1,0 +1,5 @@
+body{background-color: blanchedalmond;justify-content: center;
+background-image: url("https://www.stutern.com/images/opengraph.jpg");cursor: pointer;}
+main{color:peachpuff;min-width: 500px;max-width: 1900px;min-height: 700px;max-height: 1000px;}
+a{text-decoration: none;list-style-position: inside;}
+a:hover{color: red;}
